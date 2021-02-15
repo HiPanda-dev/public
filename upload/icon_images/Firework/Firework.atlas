@@ -1,0 +1,27 @@
+
+Firework.png
+size: 168,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Firework01
+  rotate: false
+  xy: 118, 2
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+Firework02
+  rotate: false
+  xy: 2, 5
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+Firework03
+  rotate: false
+  xy: 60, 5
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
