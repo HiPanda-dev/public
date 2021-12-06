@@ -1,0 +1,13 @@
+
+Arraw.png
+size: 47,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: false
+  xy: 2, 2
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1

@@ -1,29 +1,8 @@
 {
    "icon_images":[
       {
-         "name":"firecracker",
+         "name":"item",
          "image":"https://hipanda-dev.github.io/public/upload/icon_images/firecracker.png",
-         "ske":"null",
-         "atlas":"null",
-         "type":"png"
-      },
-      {
-         "name":"item1",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/coin.png",
-         "ske":"null",
-         "atlas":"null",
-         "type":"png"
-      },
-      {
-         "name":"item2",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/coin.png",
-         "ske":"null",
-         "atlas":"null",
-         "type":"png"
-      },
-      {
-         "name":"speed",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/fast.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
@@ -40,6 +19,20 @@
       {
          "name":"btnArrow",
          "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnArrow.png",
+         "ske":"null",
+         "atlas":"null",
+         "type":"png"
+      },
+      {
+         "name":"btnSoundOn",
+         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnSoundOn.png",
+         "ske":"null",
+         "atlas":"null",
+         "type":"png"
+      },
+      {
+         "name":"btnSoundOff",
+         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnSoundOff.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
@@ -74,6 +67,13 @@
       },
 	  {
          "name":"btnPause",
+         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnPause.png",
+         "ske":"null",
+         "atlas":"null",
+         "type":"png"
+      },
+      {
+         "name":"btnBack",
          "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnPause.png",
          "ske":"null",
          "atlas":"null",
