@@ -1,0 +1,20 @@
+
+Clock.png
+size: 101,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clock1
+  rotate: true
+  xy: 87, 61
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Clock2
+  rotate: false
+  xy: 2, 2
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
