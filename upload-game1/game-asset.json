@@ -2,28 +2,28 @@
    "icon_images":[
       {
          "name":"item1",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/coin.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/coin.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"item2",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/coin.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/coin.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"item3",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/fast.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/fast.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"item4",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/bag.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/bag.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
@@ -31,7 +31,7 @@
 
       {
          "name":"item5",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/bag.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/bag.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
@@ -39,35 +39,35 @@
 
       {
          "name":"buttonItem1",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/bag.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/bag.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"buttonItem2",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/bag.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/bag.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"buttonItem3",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/bag.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/bag.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"buttonItem4",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/bag.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/bag.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"buttonItem5",
-         "image":"https://hipanda-dev.github.io/public/upload/icon_images/bag.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/icon_images/bag.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
@@ -76,63 +76,63 @@
    "button_icon_images":[
       {
          "name":"btnArrow",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnArrow.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnArrow.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnSoundOn",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnSoundOn.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnSoundOn.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnSoundOff",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnSoundOff.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnSoundOff.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnHelp",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnHelp.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnHelp.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnClose",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnClose.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnClose.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnHome",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnHome.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnHome.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnMenu",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/menu.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/menu.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
 	   {
          "name":"btnPause",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnPause.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnPause.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnBack",
-         "image":"https://hipanda-dev.github.io/public/upload/button_icon_images/btnPause.png",
+         "image":"https://hipanda-dev.github.io/public/upload-game1/button_icon_images/btnPause.png",
          "ske":"null",
          "atlas":"null",
          "type":"png"
