@@ -2,14 +2,14 @@
    "icon_images":[
       {
          "name":"item",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/icon_images/firecracker.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"clock",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/icon_images/bag.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
@@ -18,63 +18,63 @@
    "button_icon_images":[
       {
          "name":"btnArrow",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnArrow.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnSoundOn",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnSoundOn.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnSoundOff",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnSoundOff.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnHelp",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnHelp.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnClose",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnClose.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnHome",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnHome.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnMenu",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/menu.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
-	  {
+	   {
          "name":"btnPause",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnPause.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
       },
       {
          "name":"btnBack",
-         "image":"https://hipanda-dev.github.io/public/upload-game3/button_icon_images/btnPause.png",
+         "image":"",
          "ske":"null",
          "atlas":"null",
          "type":"png"
